@@ -2,7 +2,7 @@
 ## This is my profile
 - 🌱 I’m currently learning ...
 
-![Panachat Aiamnam](https://scontent.fbkk5-5.fna.fbcdn.net/v/t39.30808-6/271062469_3092926827605536_796839208124672024_n.jpg?_nc_cat=100&ccb=1-5&_nc_sid=730e14&_nc_eui2=AeFKZKlV_JQaZz9yGMoOtejKCwcVRK6N9DkLBxVEro30ORfNZzrYKUJVPLcBQ3YZqquXZcqrbHqUCwQJ1v6rwltn&_nc_ohc=3FeuUUnOcosAX8Ceeoz&tn=4_lNa8XwS_ds3mp4&_nc_ht=scontent.fbkk5-5.fna&oh=00_AT_3VW4gbinGQGikRZJ3hzl27A_p_OI9J1urJETnP2xSVw&oe=61F9B041)
+![Panachat Aiamnam](https://scontent.fbkk5-6.fna.fbcdn.net/v/t39.30808-6/245804023_3042133376018215_4340219681343651055_n.jpg?_nc_cat=102&ccb=1-5&_nc_sid=174925&_nc_eui2=AeHPbPbV-oTSsDoHu-xuh1PkT_-deEpyuG5P_514SnK4bodlezKsr4JyHuZiwLyvb98z42FDMxT3VY8fU37QgbkP&_nc_ohc=oGI0Kn_j0kEAX8pDBgy&_nc_ht=scontent.fbkk5-6.fna&oh=00_AT_3f03mQk0sFgJc61khTPFKyISNaWWaesgxj7sXPcOnOQ&oe=61F9529A)
 <!--
 **panachat/Panachat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
