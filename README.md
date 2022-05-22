@@ -28,7 +28,7 @@
 
 <div align = "center">
   <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=panachat&layout=compact&show_icons=true&theme=dracula" >
-  <img src= "https://github-readme-stats.vercel.app/api?username=panachat&show_icons=true&theme=dracula" width="425">
+  <img src= "https://github-readme-stats.vercel.app/api?username=panachat&show_icons=true&theme=dracula" width="423">
 </div>
 
  
