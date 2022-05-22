@@ -27,8 +27,8 @@
 <br>
 
 <div align = "center">
-  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=panachat&layout=compact&show_icons=true&theme=dracula" height="200">
-  <img src= "https://github-readme-stats.vercel.app/api?username=panachat&show_icons=true&theme=dracula" height="200">
+  <img src= "https://github-readme-stats.vercel.app/api/top-langs/?username=panachat&layout=compact&show_icons=true&theme=dracula" >
+  <img src= "https://github-readme-stats.vercel.app/api?username=panachat&show_icons=true&theme=dracula" >
 </div>
 
  
