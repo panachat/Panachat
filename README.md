@@ -18,3 +18,6 @@ Skills:  JS / HTML / CSS / PYTHON
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=panachat)  
 
 ![Profile views](https://gpvc.arturio.dev/panachat)  
+💻 Languages and Tools: 🛠️
+
+Git GitHub Visual Studio Code HTML5 CSS3 Sass Font Awesome JavaScript jQuery Bootstrap JSON React Redux Nodejs NPM socket.io Jest PostgreSQL MySQL MongoDB Swagger ESlint Windows
